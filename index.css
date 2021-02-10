@@ -1,0 +1,91 @@
+
+/* css file for home page only 
+ found myslf combine multple css pages to ensure uniform look  */
+ .intro{ 
+    font-weight: bolder;
+    color: black;
+    font-size: x-large;
+   
+}
+
+img {
+  width: 0%;
+  height: auto;
+}
+
+#move{
+
+    position: absolute;
+    white-space: nowrap;
+    -webkit-animation: rightThenLeft 4s linear;
+}
+
+@-webkit-keyframes rightThenLeft {
+    0%   {left: 0%;}
+    50%  {left: 100%;}
+    100% {left: 0%;}
+}
+
+
+body{
+
+
+  
+
+}
+
+.bio {
+
+font-size: large;
+
+}
+.img-thumbnail{
+    margin: auto;
+}
+
+
+#floated{
+    float: left;
+    width: 150px;
+    background: red;
+}
+
+#container{
+  width: 400px;
+  background: yellow;
+}
+
+h2{
+    font-size: xx-large;
+}
+
+.title{
+    font-size: x-large;
+    font-weight: bold;
+   
+}
+footer{
+    font-weight: bolder;
+    font-size:x-large
+
+}
+  
+
+
+  /* @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+  @media only screen and (max-width): 600px) {
+      body {
+          background-color: green;
+      }
+  } */
+
+  @media screen and (max-width: 700px) {
+    body {
+      background-color: green;
+    }
+  }

@@ -1,0 +1,31 @@
+
+    
+    /* not many inputs but things are kept uniform from index.css  */
+    .btn-primary {
+      content: center;
+      background-color: black;
+    }
+
+    .port{
+        font-weight: bolder ;
+        font-size: xx-large;
+    }
+
+    .font {
+      font-weight: bolder;
+      align-content: center;
+      font-size: x-large;
+    }
+  body{
+    background-image:url(https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/07/shutterstock_582803470.jpg?w=750;) 
+  }
+    
+   #mainImg{
+width: 200px;
+height: 200px;
+   }
+
+   #mainImg1{
+    width: 500px;
+    height: 250px;
+       }
