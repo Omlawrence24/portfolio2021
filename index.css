@@ -8,10 +8,20 @@
    
 }
 
+#top{
+  font-size: 150%;
+}
+.introFont {
+font-size: 700%;
+color: aliceblue;
+font-family: 'Times New Roman', Times, serif;
+}
+
+/* 
 img {
   width: 0%;
   height: auto;
-}
+} */
 
 #move{
 
@@ -25,10 +35,16 @@ img {
     50%  {left: 100%;}
     100% {left: 0%;}
 }
+#introBtn{
+  font-size: 300%;
+ text-align: center;
 
+}
 
-body{
-
+#intro1 {
+  background-image:url(https://d37oebn0w9ir6a.cloudfront.net/account_24664/turquoise-hessian-fabric-background_27624c1c5f936f60f4c4e77793c2dd73.jpg),
+  /* background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat; */
 
   
 
