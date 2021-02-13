@@ -69,9 +69,16 @@ height: 200px;
       #phrase{
         text-indent: 5%;
       }
-      /* #introBtn{
-        width: 100px;
-  height: 100px;
-  background:white;
-  transition: width 2s;
-      } */
+
+      #contacts{
+        color: aliceblue;
+        text-align: center;
+      }
+
+    #profont1{
+      color: orange;
+    }
+
+    #profont3{
+      color: aliceblue;
+    }
