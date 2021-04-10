@@ -17,11 +17,22 @@
       font-size: x-large;
     }
   body{
-    background-image:url(https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/07/shutterstock_582803470.jpg?w=750;) 
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image:url(https://cutewallpaper.org/21/hd-tech-wallpapers/Tech-Wallpapers-Top-Free-Tech-Backgrounds-WallpaperAccess.jpg) 
   }
+/* this is the background for the index "page"  */
+/* 
+#index{
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image:url(https://images.pond5.com/high-tech-business-background-4k-footage-102017085_iconl.jpeg) 
+} */
+
+  /* https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4S6dvOiKjKL1Yuff6XW48lNlBHIx_6xYsuA&usqp=CAU */
     
   #intro1{
-    background-image:url(https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/07/shutterstock_582803470.jpg?w=750;) 
+    background-image:url(https://cutewallpaper.org/21/hd-tech-wallpapers/Tech-Wallpapers-Top-Free-Tech-Backgrounds-WallpaperAccess.jpg) 
 
   }
    #mainImg{
@@ -33,7 +44,7 @@ height: 200px;
     width: 500px;
     height: 250px;
        }
-  
+   
        #port {
         width: 128px;
         height: 150px;

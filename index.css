@@ -1,6 +1,5 @@
 
-/* css file for home page only 
- found myslf combine multple css pages to ensure uniform look  */
+/* I WILL BE RE DOING MY ENTIRE PORTFOLIO TO INCORPERTE REACT */
  .intro{ 
     font-weight: bolder;
     color: black;
@@ -44,7 +43,7 @@ img {
 #intro1 {
   background-image:url(https://d37oebn0w9ir6a.cloudfront.net/account_24664/turquoise-hessian-fabric-background_27624c1c5f936f60f4c4e77793c2dd73.jpg),
   /* background-position: right bottom, left top;
-  background-repeat: no-repeat, repeat; */
+  background-repeat: no-repeat; */
 
   
 
