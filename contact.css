@@ -19,7 +19,8 @@
   body{
     background-size: 100%;
     background-repeat: no-repeat;
-    background-image:url(https://cutewallpaper.org/21/hd-tech-wallpapers/Tech-Wallpapers-Top-Free-Tech-Backgrounds-WallpaperAccess.jpg) 
+    background-size: 300%;
+    background-image:url(https://wallpaperaccess.com/full/2650966.jpg) 
   }
 /* this is the background for the index "page"  */
 /* 
@@ -32,7 +33,7 @@
   /* https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4S6dvOiKjKL1Yuff6XW48lNlBHIx_6xYsuA&usqp=CAU */
     
   #intro1{
-    background-image:url(https://cutewallpaper.org/21/hd-tech-wallpapers/Tech-Wallpapers-Top-Free-Tech-Backgrounds-WallpaperAccess.jpg) 
+    background-image:url(https://wallpaperaccess.com/full/2650966.jpg) 
 
   }
    #mainImg{
@@ -87,7 +88,7 @@ height: 200px;
       }
 
     #profont1{
-      color: orange;
+      color: rgb(0, 81, 255);
     }
 
     #profont3{
