@@ -14,7 +14,7 @@
  * [Preview](#Preview)
  
   ## Installation
-  Install NPM, BootStrap,![prot 1](https://user-images.githubusercontent.com/73300219/114570030-7aaf9000-9c43-11eb-8cdf-9481bb408999.PNG)
+  Install NPM, BootStrap
  
 
   ## Usage
