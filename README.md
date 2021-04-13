@@ -13,10 +13,10 @@
  * [Developer](#Developer)
 
   ## Installation
-  install NPM, BootStrap 
+  Install NPM, BootStrap 
 
   ## Usage
-  Used as a Protfolio to to give employers a more indepth look at Obedia Lawrence past and personality.
+  Used as a Protfolio to give employers a more indepth look at Obedia Lawrence Past, Employment and Personality.
 
   ## License
   MIT
