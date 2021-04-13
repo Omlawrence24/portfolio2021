@@ -13,7 +13,7 @@
  * [Developer](#Developer)
 
   ## Installation
-  install NPM, BootStrap, 
+  install NPM, BootStrap 
 
   ## Usage
   Used as a Protfolio to to give employers a more indepth look at Obedia Lawrence past and personality.
@@ -22,7 +22,7 @@
   MIT
 
   ## Technology
-  HTML, CSS, VS Code, JavaScript, CDN
+  HTML, CSS, VS Code, CDN
 
   ## Developer
   Obedia Lawrence
